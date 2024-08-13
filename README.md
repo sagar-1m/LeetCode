@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sagar-1m/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sagar-1m/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/sagar-1m/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sagar-1m/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sagar-1m/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
