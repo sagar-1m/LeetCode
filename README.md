@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sagar-1m/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
