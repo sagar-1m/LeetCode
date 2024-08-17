@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sagar-1m/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sagar-1m/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/sagar-1m/LeetCode/tree/master/2383-add-two-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
