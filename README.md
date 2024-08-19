@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sagar-1m/LeetCode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sagar-1m/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sagar-1m/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 ## String Matching
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
