@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/sagar-1m/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [2383-add-two-integers](https://github.com/sagar-1m/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sagar-1m/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sagar-1m/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/sagar-1m/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
+| [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagar-1m/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Recursion
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
+| [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar-1m/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagar-1m/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
