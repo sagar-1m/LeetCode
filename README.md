@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sagar-1m/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/sagar-1m/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/sagar-1m/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sagar-1m/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## String
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sagar-1m/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sagar-1m/LeetCode/tree/master/0189-rotate-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
