@@ -1,19 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-         int candidate = nums[0];
-        int count = 0;
+         int count=0;
+         int element;
 
-        // Phase 1: Find the candidate
-        for (int num : nums) {
-            if (count == 0) {
-                candidate = num;  // Choose new candidate
+         for(int i=0; i<nums.size(); i++){
+            if(count==0){
+                count=1;
+                element=nums[i];
             }
-            count += (num == candidate) ? 1 : -1;
-        }
-
-        // No need for Phase 2 to verify the candidate as the problem assumes the majority element always exists.
-
-        return candidate;
+            else if(element==nums[i])
+            count++;
+            else
+            count--;
+         }
+         return element;
     }
 };
