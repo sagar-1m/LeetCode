@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagar-1m/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/sagar-1m/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sagar-1m/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sagar-1m/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sagar-1m/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
