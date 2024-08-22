@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sagar-1m/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sagar-1m/LeetCode/tree/master/0075-sort-colors) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sagar-1m/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagar-1m/LeetCode/tree/master/0191-number-of-1-bits) |
