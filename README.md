@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar-1m/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagar-1m/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Geometry
 |  |
 | ------- |
