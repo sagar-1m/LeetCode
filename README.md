@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sagar-1m/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagar-1m/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sagar-1m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sagar-1m/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sagar-1m/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sagar-1m/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagar-1m/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/sagar-1m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sagar-1m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
