@@ -59,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sagar-1m/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/sagar-1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -151,6 +152,7 @@
 | [0075-sort-colors](https://github.com/sagar-1m/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sagar-1m/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sagar-1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -172,6 +174,7 @@
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sagar-1m/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sagar-1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
