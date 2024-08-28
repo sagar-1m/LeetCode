@@ -112,6 +112,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagar-1m/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagar-1m/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sagar-1m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sagar-1m/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sagar-1m/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/sagar-1m/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sagar-1m/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagar-1m/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/sagar-1m/LeetCode/tree/master/0135-candy) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
