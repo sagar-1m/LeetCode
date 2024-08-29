@@ -191,6 +191,7 @@
 | [0290-word-pattern](https://github.com/sagar-1m/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## String Matching
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sagar-1m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 ## Tree
 |  |
@@ -266,6 +268,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -279,6 +282,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
