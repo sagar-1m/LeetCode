@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -72,6 +73,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/sagar-1m/LeetCode/tree/master/0664-strange-printer) |
+| [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
