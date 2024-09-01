@@ -142,6 +142,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagar-1m/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -253,6 +254,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Geometry
 |  |
@@ -298,6 +300,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagar-1m/LeetCode/tree/master/0036-valid-sudoku) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
 | ------- |
