@@ -115,6 +115,7 @@
 | [0045-jump-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sagar-1m/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -262,6 +263,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagar-1m/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sagar-1m/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
