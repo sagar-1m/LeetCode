@@ -146,6 +146,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sagar-1m/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -226,6 +227,7 @@
 | [0290-word-pattern](https://github.com/sagar-1m/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String Matching
@@ -275,6 +277,7 @@
 | [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
