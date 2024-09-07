@@ -265,6 +265,7 @@
 | [0137-single-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/sagar-1m/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagar-1m/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sagar-1m/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sagar-1m/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/sagar-1m/LeetCode/tree/master/0476-number-complement) |
