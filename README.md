@@ -70,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/sagar-1m/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sagar-1m/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sagar-1m/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sagar-1m/LeetCode/tree/master/0179-largest-number) |
@@ -131,6 +132,7 @@
 | [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sagar-1m/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sagar-1m/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/sagar-1m/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sagar-1m/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sagar-1m/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sagar-1m/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/sagar-1m/LeetCode/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
