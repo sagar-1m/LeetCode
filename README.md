@@ -27,6 +27,7 @@
 | [0650-2-keys-keyboard](https://github.com/sagar-1m/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0830-largest-triangle-area](https://github.com/sagar-1m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/sagar-1m/LeetCode/tree/master/2155-find-missing-observations) |
@@ -175,6 +176,7 @@
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/sagar-1m/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -214,6 +216,7 @@
 | [0179-largest-number](https://github.com/sagar-1m/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -237,6 +240,7 @@
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
