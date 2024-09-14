@@ -33,6 +33,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
+| [1260-day-of-the-year](https://github.com/sagar-1m/LeetCode/tree/master/1260-day-of-the-year) |
 | [2155-find-missing-observations](https://github.com/sagar-1m/LeetCode/tree/master/2155-find-missing-observations) |
 | [2383-add-two-integers](https://github.com/sagar-1m/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/sagar-1m/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -94,6 +95,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/sagar-1m/LeetCode/tree/master/0664-strange-printer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/sagar-1m/LeetCode/tree/master/1260-day-of-the-year) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
