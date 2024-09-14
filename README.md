@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/sagar-1m/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sagar-1m/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -120,6 +121,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sagar-1m/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sagar-1m/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -312,6 +314,7 @@
 | [0190-reverse-bits](https://github.com/sagar-1m/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sagar-1m/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sagar-1m/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sagar-1m/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/sagar-1m/LeetCode/tree/master/0476-number-complement) |
