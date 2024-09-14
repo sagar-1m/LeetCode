@@ -21,6 +21,7 @@
 | [0202-happy-number](https://github.com/sagar-1m/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sagar-1m/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0564-find-the-closest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -345,6 +346,7 @@
 | [0054-spiral-matrix](https://github.com/sagar-1m/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sagar-1m/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sagar-1m/LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/sagar-1m/LeetCode/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -439,6 +441,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sagar-1m/LeetCode/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagar-1m/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
