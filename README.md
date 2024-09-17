@@ -68,6 +68,7 @@
 | [0953-reverse-only-letters](https://github.com/sagar-1m/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/sagar-1m/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -108,6 +109,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
