@@ -93,6 +93,7 @@
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/sagar-1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sagar-1m/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sagar-1m/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sagar-1m/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
@@ -305,6 +306,7 @@
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sagar-1m/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sagar-1m/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -405,6 +407,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sagar-1m/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sagar-1m/LeetCode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/sagar-1m/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagar-1m/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
