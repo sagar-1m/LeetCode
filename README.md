@@ -21,6 +21,7 @@
 | [0202-happy-number](https://github.com/sagar-1m/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagar-1m/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sagar-1m/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@
 | [0179-largest-number](https://github.com/sagar-1m/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sagar-1m/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagar-1m/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sagar-1m/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sagar-1m/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/sagar-1m/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -122,6 +124,7 @@
 | [0118-pascals-triangle](https://github.com/sagar-1m/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagar-1m/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagar-1m/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagar-1m/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sagar-1m/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/sagar-1m/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
@@ -139,10 +142,12 @@
 | [0050-powx-n](https://github.com/sagar-1m/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sagar-1m/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagar-1m/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/sagar-1m/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
