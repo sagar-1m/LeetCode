@@ -66,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/sagar-1m/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1168-duplicate-zeros](https://github.com/sagar-1m/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/sagar-1m/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -216,6 +217,7 @@
 | [0830-largest-triangle-area](https://github.com/sagar-1m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1168-duplicate-zeros](https://github.com/sagar-1m/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -267,6 +269,7 @@
 | [0179-largest-number](https://github.com/sagar-1m/LeetCode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -296,6 +299,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sagar-1m/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/sagar-1m/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
