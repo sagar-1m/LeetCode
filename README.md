@@ -210,6 +210,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/sagar-1m/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [0830-largest-triangle-area](https://github.com/sagar-1m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -248,6 +249,7 @@
 | [0268-missing-number](https://github.com/sagar-1m/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
@@ -546,4 +548,16 @@
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
