@@ -510,18 +510,21 @@
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/sagar-1m/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/sagar-1m/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Backtracking
 |  |
 | ------- |
