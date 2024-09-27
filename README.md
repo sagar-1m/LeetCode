@@ -214,6 +214,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sagar-1m/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0830-largest-triangle-area](https://github.com/sagar-1m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -255,6 +256,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
@@ -309,6 +311,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sagar-1m/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sagar-1m/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagar-1m/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -564,12 +567,15 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
