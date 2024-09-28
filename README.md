@@ -216,6 +216,7 @@
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0830-largest-triangle-area](https://github.com/sagar-1m/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/sagar-1m/LeetCode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -422,6 +423,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sagar-1m/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sagar-1m/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0725-split-linked-list-in-parts](https://github.com/sagar-1m/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/sagar-1m/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagar-1m/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -536,6 +538,7 @@
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -576,6 +579,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
