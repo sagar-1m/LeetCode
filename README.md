@@ -352,6 +352,7 @@
 | [0299-bulls-and-cows](https://github.com/sagar-1m/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
+| [0432-all-oone-data-structure](https://github.com/sagar-1m/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/sagar-1m/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/sagar-1m/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -426,6 +427,7 @@
 | [0002-add-two-numbers](https://github.com/sagar-1m/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sagar-1m/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sagar-1m/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0432-all-oone-data-structure](https://github.com/sagar-1m/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/sagar-1m/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -581,6 +583,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/sagar-1m/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
@@ -606,4 +609,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sagar-1m/LeetCode/tree/master/0948-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/sagar-1m/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
