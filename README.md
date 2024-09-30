@@ -232,6 +232,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sagar-1m/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar-1m/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -381,6 +382,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sagar-1m/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
@@ -590,6 +592,7 @@
 | [0729-my-calendar-i](https://github.com/sagar-1m/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagar-1m/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/sagar-1m/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/sagar-1m/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
