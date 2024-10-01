@@ -245,6 +245,7 @@
 | [2155-find-missing-observations](https://github.com/sagar-1m/LeetCode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/sagar-1m/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagar-1m/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -527,6 +528,7 @@
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sagar-1m/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/sagar-1m/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -590,6 +593,7 @@
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
 |  |
 | ------- |
