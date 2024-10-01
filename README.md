@@ -234,6 +234,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagar-1m/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagar-1m/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar-1m/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -366,6 +367,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/sagar-1m/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagar-1m/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagar-1m/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2044-number-of-wonderful-substrings](https://github.com/sagar-1m/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -474,6 +476,7 @@
 | [0383-ransom-note](https://github.com/sagar-1m/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/sagar-1m/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagar-1m/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagar-1m/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Trie
