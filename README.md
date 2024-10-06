@@ -66,6 +66,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sagar-1m/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sagar-1m/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/sagar-1m/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/sagar-1m/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -108,6 +109,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sagar-1m/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/sagar-1m/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/sagar-1m/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/sagar-1m/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0648-replace-words](https://github.com/sagar-1m/LeetCode/tree/master/0648-replace-words) |
 | [0664-strange-printer](https://github.com/sagar-1m/LeetCode/tree/master/0664-strange-printer) |
@@ -295,6 +297,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sagar-1m/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagar-1m/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sagar-1m/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/sagar-1m/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sagar-1m/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -368,6 +371,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sagar-1m/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/sagar-1m/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sagar-1m/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sagar-1m/LeetCode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/sagar-1m/LeetCode/tree/master/0648-replace-words) |
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagar-1m/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
