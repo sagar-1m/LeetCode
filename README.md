@@ -128,6 +128,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagar-1m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagar-1m/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/sagar-1m/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -260,6 +261,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sagar-1m/LeetCode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagar-1m/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sagar-1m/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/sagar-1m/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/sagar-1m/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -416,6 +418,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sagar-1m/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/sagar-1m/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagar-1m/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sagar-1m/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
