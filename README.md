@@ -273,6 +273,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagar-1m/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/sagar-1m/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagar-1m/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sagar-1m/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -470,6 +471,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagar-1m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sagar-1m/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagar-1m/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/sagar-1m/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -633,6 +635,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagar-1m/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/sagar-1m/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
 |  |
 | ------- |
