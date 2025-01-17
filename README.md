@@ -137,6 +137,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sagar-1m/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sagar-1m/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagar-1m/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sagar-1m/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sagar-1m/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String Matching
 |  |
@@ -536,6 +538,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagar-1m/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sagar-1m/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
 | ------- |
