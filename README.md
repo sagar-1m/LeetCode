@@ -593,6 +593,7 @@
 | [1396-count-servers-that-communicate](https://github.com/sagar-1m/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagar-1m/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -628,6 +629,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/sagar-1m/LeetCode/tree/master/2803-modify-graph-edge-weights) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sagar-1m/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Design
