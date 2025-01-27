@@ -592,6 +592,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/sagar-1m/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/sagar-1m/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -628,6 +629,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagar-1m/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/sagar-1m/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -648,6 +650,7 @@
 | [1396-count-servers-that-communicate](https://github.com/sagar-1m/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/sagar-1m/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/sagar-1m/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/sagar-1m/LeetCode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagar-1m/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -699,6 +702,7 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sagar-1m/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/sagar-1m/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagar-1m/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/sagar-1m/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
