@@ -128,6 +128,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sagar-1m/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sagar-1m/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/sagar-1m/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sagar-1m/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2044-number-of-wonderful-substrings](https://github.com/sagar-1m/LeetCode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagar-1m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -467,6 +468,7 @@
 | [0224-basic-calculator](https://github.com/sagar-1m/LeetCode/tree/master/0224-basic-calculator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sagar-1m/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagar-1m/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sagar-1m/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/sagar-1m/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sagar-1m/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/sagar-1m/LeetCode/tree/master/3447-clear-digits) |
@@ -544,6 +546,7 @@
 | [0906-walking-robot-simulation](https://github.com/sagar-1m/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sagar-1m/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagar-1m/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/sagar-1m/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagar-1m/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagar-1m/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sagar-1m/LeetCode/tree/master/2155-find-missing-observations) |
