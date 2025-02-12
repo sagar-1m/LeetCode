@@ -284,6 +284,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/sagar-1m/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/sagar-1m/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagar-1m/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sagar-1m/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -369,6 +370,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/sagar-1m/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/sagar-1m/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagar-1m/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sagar-1m/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sagar-1m/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -444,6 +446,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sagar-1m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/sagar-1m/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagar-1m/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagar-1m/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagar-1m/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -519,6 +522,7 @@
 | [1325-path-with-maximum-probability](https://github.com/sagar-1m/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/sagar-1m/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagar-1m/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagar-1m/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/sagar-1m/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
