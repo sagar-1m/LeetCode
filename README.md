@@ -167,6 +167,7 @@
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagar-1m/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagar-1m/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
@@ -273,6 +274,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagar-1m/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/sagar-1m/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagar-1m/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sagar-1m/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar-1m/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sagar-1m/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
