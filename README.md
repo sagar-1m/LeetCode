@@ -121,6 +121,7 @@
 | [0952-word-subsets](https://github.com/sagar-1m/LeetCode/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/sagar-1m/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sagar-1m/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/sagar-1m/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1260-day-of-the-year](https://github.com/sagar-1m/LeetCode/tree/master/1260-day-of-the-year) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagar-1m/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/sagar-1m/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -166,6 +167,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagar-1m/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sagar-1m/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sagar-1m/LeetCode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/sagar-1m/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/sagar-1m/LeetCode/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sagar-1m/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagar-1m/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
