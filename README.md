@@ -80,6 +80,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar-1m/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/sagar-1m/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sagar-1m/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/sagar-1m/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sagar-1m/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagar-1m/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sagar-1m/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -473,6 +475,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagar-1m/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/sagar-1m/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagar-1m/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sagar-1m/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
