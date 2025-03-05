@@ -45,6 +45,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/sagar-1m/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2556-convert-the-temperature](https://github.com/sagar-1m/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sagar-1m/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/sagar-1m/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagar-1m/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
