@@ -47,6 +47,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sagar-1m/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sagar-1m/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagar-1m/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/sagar-1m/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sagar-1m/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sagar-1m/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/sagar-1m/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sagar-1m/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sagar-1m/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -482,6 +484,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sagar-1m/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/sagar-1m/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sagar-1m/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/sagar-1m/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagar-1m/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sagar-1m/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sagar-1m/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -700,6 +703,7 @@
 | [2411-spiral-matrix-iv](https://github.com/sagar-1m/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagar-1m/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sagar-1m/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/sagar-1m/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
 | ------- |
