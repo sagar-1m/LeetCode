@@ -327,6 +327,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sagar-1m/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sagar-1m/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sagar-1m/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/sagar-1m/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sagar-1m/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -376,6 +377,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sagar-1m/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sagar-1m/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagar-1m/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/sagar-1m/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
